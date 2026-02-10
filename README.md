@@ -1,8 +1,6 @@
-# React + Vite
+• Built and deployed a responsive E-commerce web application using React and Vite.
+• Implemented product listing, category navigation, and cart functionality.
+• Deployed the application on Vercel with CI/CD integration and resolved production build issues.
+## 🔗 Live Demo
+https://e-commerce-w8wk.vercel.app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
